@@ -1,0 +1,44 @@
+body {
+backroung-color: #e9d495;
+}
+
+
+.atext {                                    /*класс для надписи вверху приложения*/
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px /*адаптивность*/
+    !important; /*приоритет*/
+}
+
+a.adapt {                                    /*класс для ссылок на главной странице*/
+    font-family: 'Roboto', sans-serif;
+    font-size: 4vw /*адаптивность*/
+    /*!important; /*приоритет*/   
+}
+
+.pic {
+  border-radius:4px;
+  position: relative;
+  align-self:left center;
+  margin: 5px;
+  border: 5px;
+  padding: 5px;
+}
+
+.flexible-image {
+  max-width: 100%;
+}
+
+
+  .adapt-text {
+  font-family: 'Roboto', sans-serif;
+  border-radius:4px;
+  position: relative;
+  align-self:left
+  !important;
+  margin: 5px;
+  border: 5px;
+  padding: 5px;
+  font-size: 1.5em;
+}
+
+@media (min-width: 950px) { .adapt-text {font-size: 2.1em;} a.adapt {font-size: 2.5em;} } 

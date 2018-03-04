@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884013131683",
+    "project_id": "firebase-torty"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884013131683:android:461ca9825fb8bb11",
+        "android_client_info": {
+          "package_name": "com.spurdo.torty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884013131683-6c0tsqh5seabrbncp242cv90g3g363jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spurdo.torty",
+            "certificate_hash": "95e119bfd3935e63ae6f8f6ed5e87e93180bc66c"
+          }
+        },
+        {
+          "client_id": "884013131683-um19fs2tcv9o77cf7f277upfn5ui91b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKNf7Alzbq7erqgUhjf1zI9bT57K50Fsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
